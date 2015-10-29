@@ -60,6 +60,10 @@ public class WhatIsAClass {
 		bikeTwo.speedUp(10);				//Speed is now 20. This is because we are incrementing speedUp with it's previous value + its new value.
 		bikeTwo.changeGear(3);
 		bikeTwo.printStates();
+		
+		/*bikeOne.cadence = 5;*/			/*Won't work because the cadence instance variable is set to "private". Will receive a message saying, (cont...)
+											  Bicycle.cadence is not visible. This is encapsulation. You must use the available method to change (cont..)
+											  the variable.*/ 
 	}
 
 }
