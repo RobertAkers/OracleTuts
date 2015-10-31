@@ -7,7 +7,7 @@ public class WhatIsAnInterface {
 		
 		
 		//Schedule for tomorrow:
-			//Reread all previous tutorial. Complete What is an Interface - Variables (Questions and answers)
+			//Reread all previous tutorial. Complete What is an Interface - Variables (Questions and answers).
 	}
 
 }
