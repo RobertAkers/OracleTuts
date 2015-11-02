@@ -10,7 +10,7 @@ public class WhatIsAnInterface {
 			//Reread all previous tutorial. Complete What is an Interface - Variables (Questions and answers).		
 		
 		
-			//Sick today. Continuing as planned tomorrow.
+			//Sick today. Continuing as planned tomorrow,
 	}
 
 }
